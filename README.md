@@ -1,8 +1,12 @@
 # Player controls:
 Left mouse button - make one shot
+
 Tab - switch between weapons (rifle, pistol and sniper rifle)
+
 Left Shift - run
+
 WASD or arrow keys - move
+
 Mouse - turn
 
 # Weapon attributes: 
