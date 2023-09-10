@@ -1,0 +1,337 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1694381981001846, "dur":1627, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694381981003484, "dur":116, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694381981003642, "dur":198, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694381981005407, "dur":3309, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694381981003857, "dur":5878, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694381981009737, "dur":153908, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694381981163646, "dur":180, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694381981163934, "dur":2081, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1694381981004463, "dur":5317, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981009781, "dur":864, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981010645, "dur":3603, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981014262, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1694381981014249, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1694381981020902, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1694381981022320, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1694381981022390, "dur":231, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981022896, "dur":982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1694381981024011, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1694381981025632, "dur":12090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981037784, "dur":223, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981038027, "dur":3977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981042060, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981042322, "dur":2363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981044804, "dur":1678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981046538, "dur":224, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981046785, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981048145, "dur":250, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981048424, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981048550, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981051161, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981051243, "dur":137, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981051384, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981054057, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981054212, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981055921, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981055995, "dur":2543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981058594, "dur":263, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981058874, "dur":1463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981060383, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981060626, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981062530, "dur":467, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981063007, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981063069, "dur":2102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981065225, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981065377, "dur":2235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981067663, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981067741, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981069375, "dur":401, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981069831, "dur":4916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694381981074934, "dur":3395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1694381981078391, "dur":3991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1694381981085764, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694381981082450, "dur":3447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1694381981086005, "dur":77631, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981004427, "dur":5338, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981009767, "dur":925, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981010692, "dur":3551, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981014313, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1694381981014364, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981031975, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1694381981033686, "dur":3610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981037396, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981037723, "dur":3079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981040857, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981040996, "dur":3947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981045055, "dur":2445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981047673, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981047946, "dur":1956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981049952, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981050170, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981051766, "dur":255, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981054002, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981052041, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981054118, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981054210, "dur":1554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981055811, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981055969, "dur":2565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981058590, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981058841, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981060699, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981060868, "dur":1737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981062650, "dur":298, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981062964, "dur":1495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981064510, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981066602, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981064764, "dur":1964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981066810, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981066952, "dur":3149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981070218, "dur":3646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981073994, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694381981076055, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694381981076131, "dur":2339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1694381981078545, "dur":3423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1694381981082026, "dur":4287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1694381981086387, "dur":77240, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981004414, "dur":5346, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981009762, "dur":903, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981010665, "dur":3581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981014298, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981015414, "dur":3341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1694381981019230, "dur":802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1694381981020606, "dur":904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1694381981021700, "dur":1072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1694381981023269, "dur":853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1694381981024944, "dur":938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1694381981026669, "dur":6102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1694381981032953, "dur":725, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981033703, "dur":7116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981040873, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981044033, "dur":569, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981041004, "dur":3751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981044832, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981044979, "dur":2642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981047674, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981047945, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981050751, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981050920, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981052464, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981052561, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981054731, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981056333, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981059143, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981056418, "dur":2815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981059283, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981059397, "dur":1712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981061185, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981061330, "dur":2027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981063402, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981063490, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981066025, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981066120, "dur":2102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981068267, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981068395, "dur":2561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981071011, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694381981071177, "dur":3645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694381981074888, "dur":1559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1694381981076655, "dur":4628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1694381981081367, "dur":4685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1694381981086131, "dur":77495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981004461, "dur":5314, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981009777, "dur":799, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981010577, "dur":391, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981010968, "dur":3276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981014263, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1694381981014249, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1694381981014319, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981029492, "dur":5210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1694381981034763, "dur":464, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981035243, "dur":5046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981043498, "dur":1018, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981040507, "dur":4176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981045084, "dur":399, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981045493, "dur":229, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981045726, "dur":3006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981048789, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981051069, "dur":309, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981049020, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981051505, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981053974, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981051570, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981054155, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981054726, "dur":1961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981056789, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981056923, "dur":2084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981059062, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981059237, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981061721, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981061953, "dur":2207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981064211, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981066577, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981064360, "dur":2303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981066720, "dur":211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981066949, "dur":2118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981069112, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981069187, "dur":4147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981073391, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981073564, "dur":1977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694381981079346, "dur":120, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694381981075619, "dur":3873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1694381981079594, "dur":3529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1694381981083166, "dur":80477, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694381981004351, "dur":5391, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694381981009744, "dur":4498, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694381981014316, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1694381981014468, "dur":687, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1694381981015157, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1694381981015377, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981015446, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981015506, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981015560, "dur":229, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981015790, "dur":373, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981016164, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981016326, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981016383, "dur":221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981016605, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981016703, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981016759, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981016812, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981017007, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\xxxse\\Desktop\\TZ_Midnight_Works\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694381981014315, "dur":2850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1694381981017746, "dur":135926, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1694381981157186, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1694381981157185, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1694381981157315, "dur":6288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1694381981004367, "dur":5380, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981009753, "dur":945, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981010699, "dur":3550, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981014298, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981020604, "dur":968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1694381981021726, "dur":1492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1694381981023359, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1694381981025818, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":6, "ts":1694381981025817, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works.exe" }}
+,{ "pid":12345, "tid":6, "ts":1694381981025917, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981026048, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981026122, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works.exe" }}
+,{ "pid":12345, "tid":6, "ts":1694381981027417, "dur":673, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981028207, "dur":4674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981033014, "dur":2500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981035585, "dur":538, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981036151, "dur":3146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981039482, "dur":2985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981042529, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981042640, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981044948, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981045043, "dur":2675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981047764, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981047950, "dur":2060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981050051, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981050153, "dur":2963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981053168, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981053277, "dur":1496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981054837, "dur":259, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981055113, "dur":1903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981057063, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981057222, "dur":2113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981059435, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981061197, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981061328, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981063457, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981063596, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981065522, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981065689, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981067814, "dur":2376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981070258, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694381981070383, "dur":3893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981074435, "dur":56893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694381981131376, "dur":32249, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981004396, "dur":5360, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981009757, "dur":893, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981010650, "dur":3597, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981014249, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1694381981014307, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981015436, "dur":3491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1694381981019006, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981019263, "dur":861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1694381981020193, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1694381981020191, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1694381981020618, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1694381981021779, "dur":1356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1694381981023329, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1694381981025049, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981026235, "dur":234, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981026794, "dur":6531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981033440, "dur":3242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981036801, "dur":3417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981040264, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981043545, "dur":1005, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981040370, "dur":4343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981044860, "dur":2403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981047375, "dur":2686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981050519, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981050589, "dur":1688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981052328, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981052444, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981054604, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981054788, "dur":1945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981056783, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981057014, "dur":3050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981060115, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981060240, "dur":2262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981062610, "dur":318, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981062951, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981065263, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981065374, "dur":1884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981067335, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981067509, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981069585, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981069835, "dur":3877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981073828, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1694381981075900, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694381981075995, "dur":2108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1694381981078169, "dur":3454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1694381981081716, "dur":5252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1694381981087000, "dur":76624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981004456, "dur":5314, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981009772, "dur":901, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981010674, "dur":3571, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981014264, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1694381981014249, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1694381981031857, "dur":2177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1694381981034094, "dur":1086, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981035236, "dur":2892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981038179, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981038271, "dur":4924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981043266, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981043349, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981045052, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981048310, "dur":230, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981045125, "dur":3522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981048725, "dur":2672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981051460, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981051591, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981053021, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981053223, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981055809, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981058418, "dur":207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981055968, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981058712, "dur":320, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981059041, "dur":152, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981059196, "dur":2380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981061656, "dur":220, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981061950, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981064303, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981067899, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981064436, "dur":3567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981068079, "dur":295, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981068392, "dur":2696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981071140, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981071269, "dur":4069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694381981080068, "dur":284, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694381981075411, "dur":5028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1694381981080535, "dur":2867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/xxxse/Desktop/TZ_Midnight_Windows_Build/TZ_Midnight_Works_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1694381981083441, "dur":80201, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694381981169365, "dur":1624, "ph":"X", "name": "ProfilerWriteOutput" }
+,
